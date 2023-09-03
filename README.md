@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hello, World! 👋
 
-<!--
-**LuisdsSantos/LuisdsSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
+Eu sou o Luis e estou iniciando eu meus estudos na area de desenvolvimento de software. Acompanhe a minha Jornada!  
 
-Here are some ideas to get you started:
+## Estudando: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Javascript / Node.js
+- Java / Spring
+  
+##
+  
+<div align="center">
+  <a href="https://github.com/LuisdsSantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisdsSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisdsSantos&layout=compact&langs_count=7&theme=dark"/>
+</div>
+    
+##
+    
+<div align="center">
+    <img align="center" height="30" width="40" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img align="center" height="30" width="40" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />     
+    <img align="center" height="30" width="40" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>      
+    <img align="center" height="30" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" height="30" width="40" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</div>
+
+## 
